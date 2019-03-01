@@ -1,0 +1,9 @@
+{
+  "name": "hotup",
+  "ios_identifier": "",
+  "android_identifier": "http://dsunyun.com/www/app-debug.apk",
+  "update": "now",
+  "min_native_interface": 1,
+  "content_url": "http://dsunyun.com/www",
+  "release": "2019.02.20-09.27.41"
+}

@@ -1,0 +1,274 @@
+[
+  {
+    "file": "css/index.css",
+    "hash": "956f4a955b4ea3e822c1c5cd9350c7ee"
+  },
+  {
+    "file": "img/logo.png",
+    "hash": "7e34c95ac701f8cd9f793586b9df2156"
+  },
+  {
+    "file": "index-te.html",
+    "hash": "e949f3ec37ae84b6cb294070e327ea0e"
+  },
+  {
+    "file": "index.html",
+    "hash": "70a568ba918f902bd34d064082618b2a"
+  },
+  {
+    "file": "js/index.js",
+    "hash": "c42468c88d48b45829c9753c88b8a664"
+  },
+  {
+    "file": "static/cindex.js",
+    "hash": "c5aa6db0f51fe34e3fc6c7d1d3dbca8d"
+  },
+  {
+    "file": "static/css/app.5e8dbdc02eeed1c0ef2b6f6073aaa82f.css",
+    "hash": "1ab93be8dcffd007f70adfb0266ff4db"
+  },
+  {
+    "file": "static/css/app.5e8dbdc02eeed1c0ef2b6f6073aaa82f.css.map",
+    "hash": "15367c625b1fae5433ade0144ad5def6"
+  },
+  {
+    "file": "static/css/app.8cd3f5e8edec013eff42e91238b871fd.css",
+    "hash": "ea49e2a8fea42f90f33de24ff199c049"
+  },
+  {
+    "file": "static/css/app.8cd3f5e8edec013eff42e91238b871fd.css.map",
+    "hash": "c74a4d1c03449766f9b5ba4788e39cd5"
+  },
+  {
+    "file": "static/css/app.e090f4943da6875ebd321080457263d6.css",
+    "hash": "151f96ed5fd5309d6499f8c4ae864db4"
+  },
+  {
+    "file": "static/css/app.e090f4943da6875ebd321080457263d6.css.map",
+    "hash": "d925b089d298e70912805dbe60f3c55a"
+  },
+  {
+    "file": "static/img/bj.f74215e.jpg",
+    "hash": "f74215e41938a3188a6fd25690675ba5"
+  },
+  {
+    "file": "static/img/bj1.b674640.jpg",
+    "hash": "b674640b7e21e1afe5dc565f523e984c"
+  },
+  {
+    "file": "static/img/bj2.d92d595.jpg",
+    "hash": "d92d595aada13449ccceebe2c9bc3700"
+  },
+  {
+    "file": "static/img/bj3.b57996f.jpg",
+    "hash": "b57996fb6181e36fe35b75e775f174a5"
+  },
+  {
+    "file": "static/img/by.40dbb3d.png",
+    "hash": "40dbb3dc6f950dd0b42f9875d9521ac0"
+  },
+  {
+    "file": "static/img/classification.ffe56e1.png",
+    "hash": "ffe56e1aa3ed7f75bf8b782c5f8e9169"
+  },
+  {
+    "file": "static/img/connections.8ec280c.png",
+    "hash": "8ec280c4794dc44d35ff2d85555072a9"
+  },
+  {
+    "file": "static/img/connections1.f27a484.png",
+    "hash": "f27a484256d7261e3f4d3d86c4c72205"
+  },
+  {
+    "file": "static/img/dangan.ecb6603.png",
+    "hash": "ecb660377badf5098e43c4afaea58b86"
+  },
+  {
+    "file": "static/img/del.c45f93f.png",
+    "hash": "c45f93ff8904535d3373bff9cd37b365"
+  },
+  {
+    "file": "static/img/health.87d06a4.png",
+    "hash": "87d06a41d2e0255a7b909b6a3c8b4aba"
+  },
+  {
+    "file": "static/img/home.9aa1001.png",
+    "hash": "9aa10016ea604bf735ce445f72ba05cc"
+  },
+  {
+    "file": "static/img/home1.38aa13f.png",
+    "hash": "38aa13f0f40cd6284a6b0c8908949cf5"
+  },
+  {
+    "file": "static/img/huaqiao.89508ee.png",
+    "hash": "89508ee8d62a7b49471513ac7ec04486"
+  },
+  {
+    "file": "static/img/icon-left.90dd026.png",
+    "hash": "90dd026141d96686f2d20ce47aee87dd"
+  },
+  {
+    "file": "static/img/icon-right.92a1a3e.png",
+    "hash": "92a1a3e5278a578d8feccc2b5ecb0ebc"
+  },
+  {
+    "file": "static/img/life.fee4692.png",
+    "hash": "fee46928ee1758a0b101d77e27c53891"
+  },
+  {
+    "file": "static/img/my.76d0aba.png",
+    "hash": "76d0abac4a1abaed8760b143c8a31d57"
+  },
+  {
+    "file": "static/img/my1.a5c920e.png",
+    "hash": "a5c920e89c6f094473faab876671fe41"
+  },
+  {
+    "file": "static/img/myhead.b8b78b2.png",
+    "hash": "b8b78b27031a338fc6f7d65399a30be0"
+  },
+  {
+    "file": "static/img/myself.52d9408.png",
+    "hash": "52d94089dd9849f848dd6bf97b0956b7"
+  },
+  {
+    "file": "static/img/product details_pic.9005b2e.png",
+    "hash": "9005b2ec33a7a627b2e451e73753ffac"
+  },
+  {
+    "file": "static/img/release_delete.52e2b8d.png",
+    "hash": "52e2b8d123b74af47da3fe57e7e5f184"
+  },
+  {
+    "file": "static/img/release_history_pic.6682f74.png",
+    "hash": "6682f7433203c89eb7d82ce4f2f2329d"
+  },
+  {
+    "file": "static/img/release_history_select.0b11ee6.png",
+    "hash": "0b11ee6d529a0f9d7011286e5e1383e5"
+  },
+  {
+    "file": "static/img/release_history.2055f28.png",
+    "hash": "2055f28dda042dc170645ae147f95c61"
+  },
+  {
+    "file": "static/img/release-add.dbadec8.png",
+    "hash": "dbadec826a4beef10d14018abc1a6444"
+  },
+  {
+    "file": "static/img/release-collection1.493bc5d.png",
+    "hash": "493bc5dd643f385b5286173b0a738b66"
+  },
+  {
+    "file": "static/img/release-information.d1ef4ea.png",
+    "hash": "d1ef4ea91c31d58a9a3913623bf60dd1"
+  },
+  {
+    "file": "static/img/release-pay.c546b72.png",
+    "hash": "c546b72d76d16c6b0dfae4801ccd8b14"
+  },
+  {
+    "file": "static/img/release-self.4733aeb.png",
+    "hash": "4733aebcc537520e17322f9fc08f72ce"
+  },
+  {
+    "file": "static/img/release-share.4f44c2a.png",
+    "hash": "4f44c2abc72228c4a46b122ffbd165f6"
+  },
+  {
+    "file": "static/img/release.afc5169.png",
+    "hash": "afc51691ae72fcf97bce41617418c9bd"
+  },
+  {
+    "file": "static/img/release1.1ae5741.png",
+    "hash": "1ae5741998c9029fe0cce5ee21c1d558"
+  },
+  {
+    "file": "static/img/renmai.1d5a43c.png",
+    "hash": "1d5a43cd8f40f275bc8cf97888a53f4c"
+  },
+  {
+    "file": "static/img/scan.9551a27.png",
+    "hash": "9551a279171e93672899d6eb538c6558"
+  },
+  {
+    "file": "static/img/signin.59afbea.png",
+    "hash": "59afbea5717023ce99d0b99c0901418f"
+  },
+  {
+    "file": "static/img/video.69a13d7.png",
+    "hash": "69a13d7fb2c051c028ea663bf7e5a6cb"
+  },
+  {
+    "file": "static/img/video1.b2d8783.png",
+    "hash": "b2d878319f4ab89b33a6056241b644c1"
+  },
+  {
+    "file": "static/img/voice.7e6d347.png",
+    "hash": "7e6d3478a7b2397156da45038556577d"
+  },
+  {
+    "file": "static/img/voice1.252a679.png",
+    "hash": "252a67930ab00cb6f6e0b0649359db12"
+  },
+  {
+    "file": "static/img/wechat.7db5c62.png",
+    "hash": "7db5c6257acf3662fc1159d7c5ef8c12"
+  },
+  {
+    "file": "static/img/zuji.1a442f3.png",
+    "hash": "1a442f385a7cd4bde0715df2a6d4b484"
+  },
+  {
+    "file": "static/img/zy.6908ce8.png",
+    "hash": "6908ce81f7f1d6e24983f5d4c2a8387d"
+  },
+  {
+    "file": "static/js/app.3be806712fea4032b5c4.js",
+    "hash": "7c529389a010c7427b5115551844aaaa"
+  },
+  {
+    "file": "static/js/app.3be806712fea4032b5c4.js.map",
+    "hash": "4cecb1824a62d3c39dd160a93f4cd6f2"
+  },
+  {
+    "file": "static/js/app.8272493621401cbfb00b.js",
+    "hash": "80f4b3601db9f19582325ec6cb63fd64"
+  },
+  {
+    "file": "static/js/app.8272493621401cbfb00b.js.map",
+    "hash": "a94db0f4c5e880e5a5eabe0fad7f5ce8"
+  },
+  {
+    "file": "static/js/app.e1d711e660bd4b4312c9.js",
+    "hash": "3fb2c22fd0aad6de765508e92712a839"
+  },
+  {
+    "file": "static/js/app.e1d711e660bd4b4312c9.js.map",
+    "hash": "b0231fb2a97a0187b3ecdab2e92ee8f5"
+  },
+  {
+    "file": "static/js/app.eb2845b5131f4da04bd4.js",
+    "hash": "a3e235830914b2679b6a090a71f1fd50"
+  },
+  {
+    "file": "static/js/app.eb2845b5131f4da04bd4.js.map",
+    "hash": "3c911f753f26bed0efe0d78ba729102c"
+  },
+  {
+    "file": "static/js/manifest.3ad1d5771e9b13dbdad2.js",
+    "hash": "1f7027f0ae92d97d728702f7acbf9759"
+  },
+  {
+    "file": "static/js/manifest.3ad1d5771e9b13dbdad2.js.map",
+    "hash": "67083338b89346fbcf7c3c6016687f5e"
+  },
+  {
+    "file": "static/js/vendor.c6018d3e6fb7cf38564f.js",
+    "hash": "c89475ae2170b51230de23e30b3f85f6"
+  },
+  {
+    "file": "static/js/vendor.c6018d3e6fb7cf38564f.js.map",
+    "hash": "527cb8112fce310c5934684bc80a2ee3"
+  }
+]
