@@ -1,51 +1,19 @@
 [
   {
-    "file": "css/index.css",
-    "hash": "956f4a955b4ea3e822c1c5cd9350c7ee"
-  },
-  {
-    "file": "img/logo.png",
-    "hash": "7e34c95ac701f8cd9f793586b9df2156"
-  },
-  {
-    "file": "index-te.html",
-    "hash": "e949f3ec37ae84b6cb294070e327ea0e"
-  },
-  {
     "file": "index.html",
-    "hash": "70a568ba918f902bd34d064082618b2a"
-  },
-  {
-    "file": "js/index.js",
-    "hash": "c42468c88d48b45829c9753c88b8a664"
+    "hash": "c42a16af571a8456fcc53d947258ceb0"
   },
   {
     "file": "static/cindex.js",
     "hash": "c5aa6db0f51fe34e3fc6c7d1d3dbca8d"
   },
   {
-    "file": "static/css/app.5e8dbdc02eeed1c0ef2b6f6073aaa82f.css",
-    "hash": "1ab93be8dcffd007f70adfb0266ff4db"
+    "file": "static/css/app.8073f8fcbcd0b91e04fd3f4a94ba9b8d.css",
+    "hash": "12192928d34af2e974d641ed77b51a91"
   },
   {
-    "file": "static/css/app.5e8dbdc02eeed1c0ef2b6f6073aaa82f.css.map",
-    "hash": "15367c625b1fae5433ade0144ad5def6"
-  },
-  {
-    "file": "static/css/app.8cd3f5e8edec013eff42e91238b871fd.css",
-    "hash": "ea49e2a8fea42f90f33de24ff199c049"
-  },
-  {
-    "file": "static/css/app.8cd3f5e8edec013eff42e91238b871fd.css.map",
-    "hash": "c74a4d1c03449766f9b5ba4788e39cd5"
-  },
-  {
-    "file": "static/css/app.e090f4943da6875ebd321080457263d6.css",
-    "hash": "151f96ed5fd5309d6499f8c4ae864db4"
-  },
-  {
-    "file": "static/css/app.e090f4943da6875ebd321080457263d6.css.map",
-    "hash": "d925b089d298e70912805dbe60f3c55a"
+    "file": "static/css/app.8073f8fcbcd0b91e04fd3f4a94ba9b8d.css.map",
+    "hash": "31e21b8a058cb79c6b60daa580c9588e"
   },
   {
     "file": "static/img/bj.f74215e.jpg",
@@ -132,16 +100,8 @@
     "hash": "52d94089dd9849f848dd6bf97b0956b7"
   },
   {
-    "file": "static/img/product details_pic.9005b2e.png",
-    "hash": "9005b2ec33a7a627b2e451e73753ffac"
-  },
-  {
     "file": "static/img/release_delete.52e2b8d.png",
     "hash": "52e2b8d123b74af47da3fe57e7e5f184"
-  },
-  {
-    "file": "static/img/release_history_pic.6682f74.png",
-    "hash": "6682f7433203c89eb7d82ce4f2f2329d"
   },
   {
     "file": "static/img/release_history_select.0b11ee6.png",
@@ -168,8 +128,16 @@
     "hash": "c546b72d76d16c6b0dfae4801ccd8b14"
   },
   {
+    "file": "static/img/release-pay1.a98a75f.png",
+    "hash": "a98a75fbb5da1b38ded810ca185be129"
+  },
+  {
     "file": "static/img/release-self.4733aeb.png",
     "hash": "4733aebcc537520e17322f9fc08f72ce"
+  },
+  {
+    "file": "static/img/release-self1.490263a.png",
+    "hash": "490263a924b52f29cc24f7507ee84722"
   },
   {
     "file": "static/img/release-share.4f44c2a.png",
@@ -224,36 +192,12 @@
     "hash": "6908ce81f7f1d6e24983f5d4c2a8387d"
   },
   {
-    "file": "static/js/app.3be806712fea4032b5c4.js",
-    "hash": "7c529389a010c7427b5115551844aaaa"
+    "file": "static/js/app.50d5f7facbe99e0c49c2.js",
+    "hash": "0d561ff451124645a8f82d36b2dd2ba5"
   },
   {
-    "file": "static/js/app.3be806712fea4032b5c4.js.map",
-    "hash": "4cecb1824a62d3c39dd160a93f4cd6f2"
-  },
-  {
-    "file": "static/js/app.8272493621401cbfb00b.js",
-    "hash": "80f4b3601db9f19582325ec6cb63fd64"
-  },
-  {
-    "file": "static/js/app.8272493621401cbfb00b.js.map",
-    "hash": "a94db0f4c5e880e5a5eabe0fad7f5ce8"
-  },
-  {
-    "file": "static/js/app.e1d711e660bd4b4312c9.js",
-    "hash": "3fb2c22fd0aad6de765508e92712a839"
-  },
-  {
-    "file": "static/js/app.e1d711e660bd4b4312c9.js.map",
-    "hash": "b0231fb2a97a0187b3ecdab2e92ee8f5"
-  },
-  {
-    "file": "static/js/app.eb2845b5131f4da04bd4.js",
-    "hash": "a3e235830914b2679b6a090a71f1fd50"
-  },
-  {
-    "file": "static/js/app.eb2845b5131f4da04bd4.js.map",
-    "hash": "3c911f753f26bed0efe0d78ba729102c"
+    "file": "static/js/app.50d5f7facbe99e0c49c2.js.map",
+    "hash": "cb066d2353a6a7c1b6697b8e58b02268"
   },
   {
     "file": "static/js/manifest.3ad1d5771e9b13dbdad2.js",
@@ -261,14 +205,14 @@
   },
   {
     "file": "static/js/manifest.3ad1d5771e9b13dbdad2.js.map",
-    "hash": "67083338b89346fbcf7c3c6016687f5e"
+    "hash": "97cfa9044c96c06bee0d4bbd01fadf7d"
   },
   {
-    "file": "static/js/vendor.c6018d3e6fb7cf38564f.js",
-    "hash": "c89475ae2170b51230de23e30b3f85f6"
+    "file": "static/js/vendor.e49660b8d12f764ae42b.js",
+    "hash": "f0d2ee440f93b822213e16730220f982"
   },
   {
-    "file": "static/js/vendor.c6018d3e6fb7cf38564f.js.map",
-    "hash": "527cb8112fce310c5934684bc80a2ee3"
+    "file": "static/js/vendor.e49660b8d12f764ae42b.js.map",
+    "hash": "dddcc346be737c8cb9c84be55d39b279"
   }
 ]

@@ -1,33 +1,33 @@
 -- Merging decision tree log ---
 provider#org.apache.cordova.camera.FileProvider
-INJECTED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:12:9-14:20
+INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:12:9-14:20
 	android:grantUriPermissions
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:12:92-126
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:12:92-126
 	android:authorities
-		INJECTED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:12:19-66
+		INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:12:19-66
 	android:exported
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:12:67-91
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:12:67-91
 	android:name
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:12:127-180
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:12:127-180
 provider#io.github.pwlin.cordova.plugins.fileopener2.FileProvider
-INJECTED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:15:9-17:20
+INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:15:9-17:20
 	android:grantUriPermissions
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:15:99-133
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:15:99-133
 	android:authorities
-		INJECTED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:15:19-73
+		INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:15:19-73
 	android:exported
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:15:74-98
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:15:74-98
 	android:name
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:15:134-205
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:15:134-205
 manifest
-ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\HL\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\250de1232d0cf946e635621bf28cec0f\AndroidManifest.xml:17:1-22:12
-MERGED from [:CordovaLib] D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
+MERGED from [:CordovaLib] F:\ssxx\cordovaproject\cordovahot\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
 MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HL\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8d7f89c3791f93f6d0dc8bde85883c5e\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HL\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\852de5466dc589c5b156ef83400eba9a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HL\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f34e70bdd2537bda55527d7ad3775a83\AndroidManifest.xml:17:1-22:12
@@ -37,86 +37,86 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HL\.gradle\caches\tr
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fcf24275b40f037755442a29804d471f\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e2d67ed645742710ec036307bb2b33d4\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c47d1eb00eb7949df1bc2cf3cc8d4e44\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:2:100-133
-		INJECTED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:102-135
+		INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:2:74-99
-		INJECTED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:74-101
+		INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml
 	android:hardwareAccelerated
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
 	xmlns:android
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:2:134-192
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:136-194
 	android:versionCode
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
-		INJECTED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
+		INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml
 supports-screens
-ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
 	android:largeScreens
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
 	android:smallScreens
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
 	android:normalScreens
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
 	android:xlargeScreens
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
 	android:resizeable
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
 	android:anyDensity
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
 uses-permission#android.permission.INTERNET
-ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:5:5-18:19
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:5:5-18:19
 	android:supportsRtl
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:5:114-140
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:5:114-140
 	android:label
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:5:81-113
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:5:81-113
 	android:hardwareAccelerated
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
 	android:icon
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:5:53-80
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:5:53-80
 activity#io.cordova.hellocordova.MainActivity
-ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
 	android:label
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:6:97-134
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:6:97-134
 	android:launchMode
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:6:135-165
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:6:135-165
 	android:windowSoftInputMode
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:6:257-299
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:6:257-299
 	android:configChanges
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:6:19-96
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:6:19-96
 	android:theme
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:6:194-256
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:6:194-256
 	android:name
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:6:166-193
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:6:166-193
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:7:13-10:29
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:7:13-10:29
 	android:label
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:7:28-65
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:7:28-65
 action#android.intent.action.MAIN
-ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:8:17-69
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:8:17-69
 	android:name
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:8:25-66
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:8:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
 	android:name
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
 uses-sdk
-ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:19:5-74
-INJECTED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:19:5-74
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:19:5-74
+INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:19:5-74
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\HL\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\250de1232d0cf946e635621bf28cec0f\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\HL\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\250de1232d0cf946e635621bf28cec0f\AndroidManifest.xml:20:5-44
-MERGED from [:CordovaLib] D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
-MERGED from [:CordovaLib] D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] F:\ssxx\cordovaproject\cordovahot\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] F:\ssxx\cordovaproject\cordovahot\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
 MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HL\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8d7f89c3791f93f6d0dc8bde85883c5e\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HL\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8d7f89c3791f93f6d0dc8bde85883c5e\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HL\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\852de5466dc589c5b156ef83400eba9a\AndroidManifest.xml:20:5-44
@@ -135,56 +135,56 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HL\.gradle\caches\
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e2d67ed645742710ec036307bb2b33d4\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c47d1eb00eb7949df1bc2cf3cc8d4e44\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c47d1eb00eb7949df1bc2cf3cc8d4e44\AndroidManifest.xml:20:5-44
-INJECTED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:19:5-74
+INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:19:5-74
 	android:targetSdkVersion
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:19:42-71
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:19:42-71
 	android:minSdkVersion
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:19:15-41
-		INJECTED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:19:15-41
+		INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:20:5-79
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:20:5-79
 	android:name
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:20:22-76
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:20:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:21:5-76
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:21:5-76
 	android:name
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:21:22-73
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:21:22-73
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:22:5-81
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:22:5-81
 	android:name
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:22:22-78
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:22:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:23:5-79
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:23:5-79
 	android:name
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:23:22-76
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:23:22-76
 uses-feature#android.hardware.location.gps
-ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:24:5-66
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:24:5-66
 	android:name
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:24:19-63
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:24:19-63
 uses-permission#android.permission.READ_CONTACTS
-ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:25:5-72
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:25:5-72
 	android:name
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:25:22-69
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:25:22-69
 uses-permission#android.permission.WRITE_CONTACTS
-ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:26:5-73
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:26:5-73
 	android:name
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:26:22-70
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:26:22-70
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:27:5-71
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:27:5-71
 	android:name
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:27:22-68
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:27:22-68
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:28:5-81
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:28:5-81
 	android:name
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:28:22-78
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:28:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:29:5-80
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:29:5-80
 	android:name
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:29:22-77
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:29:22-77
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:13:13-123
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:13:13-123
 	android:resource
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:13:75-120
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:13:75-120
 	android:name
-		ADDED from D:\HlWork\SSXX\cordovaapp\CordovaHot\platforms\android\app\src\main\AndroidManifest.xml:13:24-74
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:13:24-74

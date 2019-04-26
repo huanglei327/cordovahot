@@ -5,5 +5,6 @@
   "update": "now",
   "min_native_interface": 1,
   "content_url": "http://dsunyun.com/www",
-  "release": "2019.02.21-15.25.55"
+  "version_a": "1.0.0",
+  "release": "2019.03.06-22.39.36"
 }

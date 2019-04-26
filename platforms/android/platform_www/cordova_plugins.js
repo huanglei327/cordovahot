@@ -343,6 +343,14 @@ module.exports = [
     "clobbers": [
       "window.FileTransfer"
     ]
+  },
+  {
+    "id": "cordova-plugin-splashscreen.SplashScreen",
+    "file": "plugins/cordova-plugin-splashscreen/www/splashscreen.js",
+    "pluginId": "cordova-plugin-splashscreen",
+    "clobbers": [
+      "navigator.splashscreen"
+    ]
   }
 ];
 module.exports.metadata = 
@@ -357,7 +365,8 @@ module.exports.metadata =
   "cordova-plugin-camera": "4.0.3",
   "cordova-plugin-file": "6.0.1",
   "cordova-plugin-file-opener2": "2.1.3",
-  "cordova-plugin-file-transfer": "1.7.1"
+  "cordova-plugin-file-transfer": "1.7.1",
+  "cordova-plugin-splashscreen": "5.0.2"
 };
 // BOTTOM OF METADATA
 });

@@ -4,5 +4,6 @@
   "android_identifier": "http://dsunyun.com/www/app-debug.apk",
   "update": "now",
   "min_native_interface": 1,
-  "content_url": "http://dsunyun.com/www"
+  "content_url": "http://dsunyun.com/www",
+  "version_a": "1.0.0"
 }
