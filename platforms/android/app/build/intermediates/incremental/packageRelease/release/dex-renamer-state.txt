@@ -1,0 +1,4 @@
+#Fri Apr 26 23:33:06 CST 2019
+base.0=F\:\\ssxx\\cordovaproject\\cordovahot\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

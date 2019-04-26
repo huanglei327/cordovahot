@@ -38,7 +38,7 @@
         <param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
         <param name="onload" value="true" />
     </feature>
-    <name>爱生活</name>
+    <name>花桥爱生活</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
     </description>
@@ -65,14 +65,17 @@
     <icon density="hdpi" src="res/icon/android/huaqiao.png" />
     <icon density="xhdpi" src="res/icon/android/huaqiao.png" />
     <icon density="xxhdpi" src="res/icon/android/huaqiao.png" />
-    <splash density="land-hdpi" src="res/icon/android/timg.jpg" />
-    <splash density="land-ldpi" src="res/icon/android/timg.jpg" />
-    <splash density="land-mdpi" src="res/icon/android/timg.jpg" />
-    <splash density="land-xhdpi" src="res/icon/android/timg.jpg" />
-    <splash density="port-hdpi" src="res/icon/android/timg.jpg" />
-    <splash density="port-ldpi" src="res/icon/android/timg.jpg" />
-    <splash density="port-mdpi" src="res/icon/android/timg.jpg" />
-    <splash density="port-xhdpi" src="res/icon/android/timg.jpg" />
+    <splash density="land-hdpi" src="res/icon/android/timg.png" />
+    <splash density="land-ldpi" src="res/icon/android/timg.png" />
+    <splash density="land-mdpi" src="res/icon/android/timg.png" />
+    <splash density="land-xhdpi" src="res/icon/android/timg.png" />
+    <splash density="port-hdpi" src="res/icon/android/timg.png" />
+    <splash density="port-ldpi" src="res/icon/android/timg.png" />
+    <splash density="port-mdpi" src="res/icon/android/timg.png" />
+    <splash density="port-xhdpi" src="res/icon/android/timg.png" />
+    <config-file parent="/manifest" target="AndroidManifest.xml" xmlns:android="http://schemas.android.com/apk/res/android">
+        <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+    </config-file>
     <preference name="loglevel" value="DEBUG" />
     <preference name="loadUrlTimeoutValue" value="60000" />
 </widget>

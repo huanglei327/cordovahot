@@ -22,10 +22,10 @@ INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\A
 	android:name
 		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:15:134-205
 manifest
-ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-31:12
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\HL\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\250de1232d0cf946e635621bf28cec0f\AndroidManifest.xml:17:1-22:12
 MERGED from [:CordovaLib] F:\ssxx\cordovaproject\cordovahot\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
 MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HL\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8d7f89c3791f93f6d0dc8bde85883c5e\AndroidManifest.xml:17:1-22:12
@@ -37,9 +37,9 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HL\.gradle\caches\tr
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fcf24275b40f037755442a29804d471f\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e2d67ed645742710ec036307bb2b33d4\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c47d1eb00eb7949df1bc2cf3cc8d4e44\AndroidManifest.xml:17:1-22:12
-INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
 		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:2:102-135
 		INJECTED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml
@@ -182,6 +182,10 @@ uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:29:5-80
 	android:name
 		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:29:22-77
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:30:5-83
+	android:name
+		ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:30:22-80
 meta-data#android.support.FILE_PROVIDER_PATHS
 ADDED from F:\ssxx\cordovaproject\cordovahot\platforms\android\app\src\main\AndroidManifest.xml:13:13-123
 	android:resource

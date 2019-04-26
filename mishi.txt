@@ -1,0 +1,15 @@
+输入密钥库口令: huanglei
+再次输入新口令:
+您的名字与姓氏是什么?
+  [Unknown]:  huang
+您的组织单位名称是什么?
+  [Unknown]:  lovelife
+您的组织名称是什么?
+  [Unknown]:  lovelife
+您所在的城市或区域名称是什么?
+  [Unknown]:  shenzhen
+您所在的省/市/自治区名称是什么?
+  [Unknown]:  guangdong
+该单位的双字母国家/地区代码是什么?
+  [Unknown]:  china
+CN=huang, OU=lovelife, O=lovelife, L=shenzhen, ST=guangdong, C=china是否正确?

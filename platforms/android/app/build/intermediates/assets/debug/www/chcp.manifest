@@ -1,19 +1,51 @@
 [
   {
+    "file": "images/bgq.jpg",
+    "hash": "c1d56a4d6c02570076c97d52dd374ed0"
+  },
+  {
     "file": "index.html",
-    "hash": "c42a16af571a8456fcc53d947258ceb0"
+    "hash": "a150857251a9de445f024ecb2ce29350"
+  },
+  {
+    "file": "js/jquery.min.js",
+    "hash": "512b871a2830e44259bc3ce3343afcd0"
   },
   {
     "file": "static/cindex.js",
     "hash": "c5aa6db0f51fe34e3fc6c7d1d3dbca8d"
   },
   {
-    "file": "static/css/app.8073f8fcbcd0b91e04fd3f4a94ba9b8d.css",
-    "hash": "12192928d34af2e974d641ed77b51a91"
+    "file": "static/css/app.bbb8a836a5632e6e5d7b14aca50e85ba.css",
+    "hash": "b349657b7045e56fc8e36cddb0efe339"
   },
   {
-    "file": "static/css/app.8073f8fcbcd0b91e04fd3f4a94ba9b8d.css.map",
-    "hash": "31e21b8a058cb79c6b60daa580c9588e"
+    "file": "static/css/app.bbb8a836a5632e6e5d7b14aca50e85ba.css.map",
+    "hash": "78dc5c6427003678a5fff729a54eaa16"
+  },
+  {
+    "file": "static/img/advertising.76fe774.jpg",
+    "hash": "76fe77461a78b40b7389c14aba005e4a"
+  },
+  {
+    "file": "static/img/bgd.8d00911.jpg",
+    "hash": "8d0091175370ed3b5eb1f68d014495c1"
+  },
+  {
+    "file": "static/img/bgreamrk.0131662.jpg",
+    "hash": "01316621c0e9cdedfb1d6fdfee1b8302"
+  },
+  {
+    "file": "static/img/bgrm.f650ca2.jpg",
+    "hash": "f650ca2cb70e64199c8c2bb362e434a5"
+  },
+  {
+    "file": "static/img/bgsp.8b41916.jpg",
+    "hash": "8b41916420fdae9d3c893c777606f483"
+  },
+  {
+    "file": "static/img/bgyy.815d37d.jpg",
+    "hash": "815d37de6d2bdd18e9c7031cc361bae8"
   },
   {
     "file": "static/img/bj.f74215e.jpg",
@@ -104,10 +136,6 @@
     "hash": "52e2b8d123b74af47da3fe57e7e5f184"
   },
   {
-    "file": "static/img/release_history_select.0b11ee6.png",
-    "hash": "0b11ee6d529a0f9d7011286e5e1383e5"
-  },
-  {
     "file": "static/img/release_history.2055f28.png",
     "hash": "2055f28dda042dc170645ae147f95c61"
   },
@@ -164,6 +192,10 @@
     "hash": "59afbea5717023ce99d0b99c0901418f"
   },
   {
+    "file": "static/img/upgrade.1fcc4c7.png",
+    "hash": "1fcc4c7531913121b21b17a5e8c05426"
+  },
+  {
     "file": "static/img/video.69a13d7.png",
     "hash": "69a13d7fb2c051c028ea663bf7e5a6cb"
   },
@@ -192,12 +224,12 @@
     "hash": "6908ce81f7f1d6e24983f5d4c2a8387d"
   },
   {
-    "file": "static/js/app.50d5f7facbe99e0c49c2.js",
-    "hash": "0d561ff451124645a8f82d36b2dd2ba5"
+    "file": "static/js/app.38f783a22a6a18b6dcb2.js",
+    "hash": "5810478ad22745fea57d1fd6fa97d874"
   },
   {
-    "file": "static/js/app.50d5f7facbe99e0c49c2.js.map",
-    "hash": "cb066d2353a6a7c1b6697b8e58b02268"
+    "file": "static/js/app.38f783a22a6a18b6dcb2.js.map",
+    "hash": "177b331b3859cb9f3d5ce240d89fcd1f"
   },
   {
     "file": "static/js/manifest.3ad1d5771e9b13dbdad2.js",
@@ -205,14 +237,14 @@
   },
   {
     "file": "static/js/manifest.3ad1d5771e9b13dbdad2.js.map",
-    "hash": "97cfa9044c96c06bee0d4bbd01fadf7d"
+    "hash": "b33354cd9e8352e093e266942d8be45e"
   },
   {
-    "file": "static/js/vendor.e49660b8d12f764ae42b.js",
-    "hash": "f0d2ee440f93b822213e16730220f982"
+    "file": "static/js/vendor.0ebbf4fdd4203de94e6a.js",
+    "hash": "22a3f2d2a961c831c8ab2f0bcb2cf16f"
   },
   {
-    "file": "static/js/vendor.e49660b8d12f764ae42b.js.map",
-    "hash": "dddcc346be737c8cb9c84be55d39b279"
+    "file": "static/js/vendor.0ebbf4fdd4203de94e6a.js.map",
+    "hash": "3c144400ca38118b3271003938d27d39"
   }
 ]
